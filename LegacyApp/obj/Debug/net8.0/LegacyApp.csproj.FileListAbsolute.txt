@@ -21,3 +21,15 @@
 /Users/oskalbarczyk/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
 /Users/oskalbarczyk/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
 /Users/oskalbarczyk/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll
+/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/bin/Debug/net8.0/LegacyApp.deps.json
+/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/bin/Debug/net8.0/LegacyApp.dll
+/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/bin/Debug/net8.0/LegacyApp.pdb
+/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/obj/Debug/net8.0/LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfoInputs.cache
+/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfo.cs
+/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/obj/Debug/net8.0/LegacyApp.csproj.CoreCompileInputs.cache
+/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/obj/Debug/net8.0/LegacyApp.sourcelink.json
+/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/obj/Debug/net8.0/LegacyApp.dll
+/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
+/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
+/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oskalbarczyk/Downloads/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj",
+      "projectUniqueName": "/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyAppConsumer/LegacyAppConsumer.csproj",
       "projectName": "LegacyAppConsumer",
-      "projectPath": "/Users/oskalbarczyk/Downloads/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj",
+      "projectPath": "/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyAppConsumer/LegacyAppConsumer.csproj",
       "packagesPath": "/Users/oskalbarczyk/.nuget/packages/",
-      "outputPath": "/Users/oskalbarczyk/Downloads/zadanie/LegacyAppConsumer/obj/",
+      "outputPath": "/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyAppConsumer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/oskalbarczyk/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/oskalbarczyk/Downloads/zadanie/LegacyApp/LegacyApp.csproj": {
-              "projectPath": "/Users/oskalbarczyk/Downloads/zadanie/LegacyApp/LegacyApp.csproj"
+            "/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/LegacyApp.csproj": {
+              "projectPath": "/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/LegacyApp.csproj"
             }
           }
         }

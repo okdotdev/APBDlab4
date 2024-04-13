@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oskalbarczyk/Downloads/zadanie/LegacyApp/LegacyApp.csproj": {}
+    "/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/LegacyApp.csproj": {}
   },
   "projects": {
-    "/Users/oskalbarczyk/Downloads/zadanie/LegacyApp/LegacyApp.csproj": {
+    "/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/LegacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oskalbarczyk/Downloads/zadanie/LegacyApp/LegacyApp.csproj",
+        "projectUniqueName": "/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/LegacyApp.csproj",
         "projectName": "LegacyApp",
-        "projectPath": "/Users/oskalbarczyk/Downloads/zadanie/LegacyApp/LegacyApp.csproj",
+        "projectPath": "/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/LegacyApp.csproj",
         "packagesPath": "/Users/oskalbarczyk/.nuget/packages/",
-        "outputPath": "/Users/oskalbarczyk/Downloads/zadanie/LegacyApp/obj/",
+        "outputPath": "/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/oskalbarczyk/.nuget/NuGet/NuGet.Config"

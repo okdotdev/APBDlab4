@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kmNe2Aw4wkq6wYepkKwm4+CDG/2KYh+pcME3rO8jE1BLfLKbXND03huG9+tfANNWygBFN7LdD096HVAEHhZpWw==",
+  "dgSpecHash": "/cYJgGOxEzvX/ANk1UMBzhNsvITJldQm9pD1SMoSTuWJSqhevDHkze7SEBzgqnOIvYUsNAZQYEr8yjQkwXpZXw==",
   "success": true,
-  "projectFilePath": "/Users/oskalbarczyk/Downloads/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj",
+  "projectFilePath": "/Users/oskalbarczyk/RiderProjects/APBDlab4/LegacyAppConsumer/LegacyAppConsumer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
